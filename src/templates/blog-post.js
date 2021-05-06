@@ -44,14 +44,6 @@ export default function BlogPost({ data, pageContext, location }) {
             margin-top: ${rhythm(1)};
           `}
         >
-          PS:{" "}
-          <span role="img" aria-label="Wizard">
-            🧙
-          </span>
-          <span role="img" aria-label="Scroll">
-            📜
-          </span>{" "}
-          I'm looking for a freelance mission. <Link to="/">See here.</Link>
         </div>
       </main>
       <nav
