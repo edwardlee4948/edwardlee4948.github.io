@@ -92,25 +92,16 @@ export const query = graphql`
       frontmatter {
         title
         description
+        image: featured {
+          childImageSharp {
+            resize(width: 1200, height: 630, jpegQuality: 100) {
+              src
+              height
+              width
+            }
+          }
+        }
       }
     }
   }
 `
-// query($slug: String!) {
-//   markdownRemark(fields: { slug: { eq: $slug } }) {
-//     html
-//     frontmatter {
-//       title
-//       description
-//       image: featured {
-//         childImageSharp {
-//           resize(width: 1200, height: 630, jpegQuality: 100) {
-//             src
-//             height
-//             width
-//           }
-//         }
-//       }
-//     }
-//   }
-// }
