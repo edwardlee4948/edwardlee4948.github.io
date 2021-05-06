@@ -81,7 +81,7 @@ function SEO({ description, lang, image, meta, keywords, title, pathname }) {
               },
               {
                 name: `google-site-verification`,
-                content: `3mGNu0NnxE9zl9pgFOQw1XrhYuJRQ6ENkVEvgOTGRF4`,
+                content: `OazaLI0-7WA6esExF3N-qxjxTngSF7319eF141Pzy9o`,
               },
             ]
               .concat(
