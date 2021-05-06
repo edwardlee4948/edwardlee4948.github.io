@@ -120,7 +120,7 @@ def to_markdown(page_id, ignore):
     raw_page = page.get()
     if 'format' in raw_page and 'page_cover' in raw_page['format']:
         page_cover_url = raw_page['format']['page_cover']
-        cover_image_name = download_file(f"https://www.notion.so/{page_cover_url}", dest_path)
+        cover_image_name = download_file(f"https%3A%2F%2Fwww.notion.so%2F{page_cover_url}", dest_path)
         metas.append(f"featured: '{cover_image_name}'")
 
     text, child_metas = process_block(page)
