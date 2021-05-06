@@ -17,7 +17,7 @@ if NOTION_TOKEN is None:
 if NOTION_ROOT_PAGE_ID is None:
     sys.exit("The NOTION_ROOT_PAGE_ID is missing, see the readme on how to set it.")
 
-client = NotionClient(token_v2=NOTION_TOKEN, email=eunmin_lee@icloud.com)
+client = NotionClient(token_v2=NOTION_TOKEN, email='eunmin_lee@icloud.com')
 root_page_id = NOTION_ROOT_PAGE_ID
 
 dest_path = os.path.normpath(os.path.join(
