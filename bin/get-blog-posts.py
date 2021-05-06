@@ -11,16 +11,10 @@ import sys
 
 NOTION_TOKEN = os.getenv('NOTION_TOKEN')
 NOTION_ROOT_PAGE_ID = os.getenv('NOTION_ROOT_PAGE_ID')
-# NOTION_EMAIL = os.getenv('NOTION_EMAIL')
-# NOTION_PWD = os.getenv('NOTION_PWD')
 if NOTION_TOKEN is None:
     sys.exit("The NOTION_TOKEN is missing, see the readme on how to set it.")
 if NOTION_ROOT_PAGE_ID is None:
     sys.exit("The NOTION_ROOT_PAGE_ID is missing, see the readme on how to set it.")
-# if NOTION_EMAIL is None:
-#     sys.exit("The NOTION_EMAIL is missing, see the readme on how to set it.")
-# if NOTION_PWD is None:
-#     sys.exit("The NOTION_PWD is missing, see the readme on how to set it.")
 
 
 

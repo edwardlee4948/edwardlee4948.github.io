@@ -29,8 +29,6 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_ROOT_PAGE_ID: ${{ secrets.NOTION_ROOT_PAGE_ID }}
-          NOTION_EMAIL: ${{ secrets.NOTION_EMAIL }}
-          NOTION_PWD: ${{ secrets.NOTION_PWD }}
         run: |
           pipenv install
           pipenv run python ./bin/get-blog-posts.py
