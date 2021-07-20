@@ -60,13 +60,13 @@ Single Cell RNA Sequencing
 
 Publications:
 ---
-❖	Yum, M. K., Han, S., FInk, J.,Wu S. S., Dabrowska, C., Trendafilova, T., Mustata, R., Chatzeli L., Azzarelli, R., Pshenichnaya I., **Lee, E.**, England F., Kim, J. K., Stange, D. E., Philpott A., Lee, J., Koo, B., Simons, B. D., Tracing oncogene-driven remodelling of the intestinal stem cell niche, Nature, 594, 442-447. (2021)
+❖	Yum, M. K., Han, S., FInk, J.,Wu S. S., Dabrowska, C., Trendafilova, T., Mustata, R., Chatzeli L., Azzarelli, R., Pshenichnaya I., **Lee, E.**, England F., Kim, J. K., Stange, D. E., Philpott A., Lee, J., Koo, B. K., Simons, B. D. Tracing oncogene-driven remodelling of the intestinal stem cell niche, Nature, 594, 442-447. (2021)
 
-❖	Lee, M.\*, **Lee, E.\***, Han, S. K.\*, Choi, Y., Kwon, D., Choi, H., Lee, K., Park, E. S., Rha, M., Joo, D. J., Shin, E., Kim, S., Kim, J. K., Lee, Y. J., Transcriptional landscapes of innate T cells at the single cell level reveal a shared lineage differentiation process regulated by clonal selection and proliferation in the thymus. Nature Communications, 11 4367. (2020) 
+❖	Lee, M.\*, **Lee, E.\***, Han, S. K.\*, Choi, Y., Kwon, D., Choi, H., Lee, K., Park, E. S., Rha, M., Joo, D. J., Shin, E., Kim, S., Kim, J. K., Lee, Y. J. Transcriptional landscapes of innate T cells at the single cell level reveal a shared lineage differentiation process regulated by clonal selection and proliferation in the thymus. Nature Communications, 11 4367. (2020) 
 
-❖	Noorani, I.\*, de la Rosa, J., Choi, Y., Strong, A., Ponstingl, H., Vijayabaskar, M. S., Lee, J., **Lee, E.**, Richard-Londt, A., Friedrich, M., Furlanetto, F., Fuente, R., Banerjee, R., Yang, F., Law, F., Watts, C., Rad, R., Vassiliou, G., Kim, J. K., Santarius, T., Brandner, S., Bradley, A.,  PiggyBac mutagenesis and exome sequencing identify genetic driver landscapes and potential therapeutic targets of EGFR-mutant gliomas. Genome Biology, 21 181. (2020) 
+❖	Noorani, I.\*, de la Rosa, J., Choi, Y., Strong, A., Ponstingl, H., Vijayabaskar, M. S., Lee, J., **Lee, E.**, Richard-Londt, A., Friedrich, M., Furlanetto, F., Fuente, R., Banerjee, R., Yang, F., Law, F., Watts, C., Rad, R., Vassiliou, G., Kim, J. K., Santarius, T., Brandner, S., Bradley, A. PiggyBac mutagenesis and exome sequencing identify genetic driver landscapes and potential therapeutic targets of EGFR-mutant gliomas. Genome Biology, 21 181. (2020) 
 
-❖	Han, S.\*, Fink, J.\*, Jörg, D. J.\*, **Lee, E.**, Yum, M. K., Chatzeli, L., Merker, S.R., Josserand, M., Trendafilova, T., Andersson-Rolf, A., Dabrowska, C., Kim, H., Naumann, R., Lee, J. H., Sasaki, N., Mort, R. L., Basak, O., Clevers, H., Stange, D. E., Philpott, A., Kim, J. K., Simons, B. D., Koo, B. K., Defining the identity and dynamics of adult gastric isthmus stem cells. Cell Stem Cell, 25(3), 342-356. (2019) 
+❖	Han, S.\*, Fink, J.\*, Jörg, D. J.\*, **Lee, E.**, Yum, M. K., Chatzeli, L., Merker, S.R., Josserand, M., Trendafilova, T., Andersson-Rolf, A., Dabrowska, C., Kim, H., Naumann, R., Lee, J. H., Sasaki, N., Mort, R. L., Basak, O., Clevers, H., Stange, D. E., Philpott, A., Kim, J. K., Simons, B. D., Koo, B. K. Defining the identity and dynamics of adult gastric isthmus stem cells. Cell Stem Cell, 25(3), 342-356. (2019) 
 
 ❖	Kim, B.\*, **Lee, E.\***, Kim, J. K. Analysis of technical and biological variability in Single-Cell RNA Sequencing. Methods in Molecular Biology, 1935, 25-43. (2019) 
 
