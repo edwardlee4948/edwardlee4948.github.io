@@ -70,7 +70,7 @@ Publications:
 
 ❖	Kim, B.\*, **Lee, E.\***, Kim, J. K. Analysis of technical and biological variability in Single-Cell RNA Sequencing. Methods in Molecular Biology, 1935, 25-43. (2019) 
 
-❖	Lee, K., **Lee, E.**, Song, C., Janik, M. J. Density functional theory study of propane steam reforming on Rh-Ni bimetallic surface: Sulfur tolerance and scaling/Broønsted-Evans-Polanyi relations. Journal of Catalysis, 309, 248-259. (2014) * co-first authorship 
+❖	Lee, K., **Lee, E.**, Song, C., Janik, M. J. Density functional theory study of propane steam reforming on Rh-Ni bimetallic surface: Sulfur tolerance and scaling/Broønsted-Evans-Polanyi relations. Journal of Catalysis, 309, 248-259. (2014)
 
     * co-first authorship
 
