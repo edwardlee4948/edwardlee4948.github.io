@@ -18,7 +18,7 @@ export default function Contact({ location }) {
       >
         <p>
           <a
-            href="mailto:eunmin4472@gmail.com"
+            href="mailto:eunmin_lee@eelvlee.com"
             target="_blank"
             rel="noreferrer"
           >
