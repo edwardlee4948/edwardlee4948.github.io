@@ -6,7 +6,9 @@ Eunmin Eddie Lee
 Work Experience
 ---
 
-**Quality Assurance** First Hawaiian Bank __Apr 2021 to present__ 
+**Data Scientist** Decision Research Corp __Sep 2021 to present__ 
+
+**Quality Assurance** First Hawaiian Bank __Apr 2021 to Sep 2021__ 
 
 **Data Scientist(Image Deep Learning)** Natural Resource Data Solutions __Oct 2020 to Feb 2021__ 5 months
 
