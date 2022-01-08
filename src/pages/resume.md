@@ -1,5 +1,3 @@
-🛠 UNDER CONSTRUCTION
-
 Eunmin Eddie Lee
 ===
 
@@ -74,7 +72,7 @@ Publications:
 
 ❖	Lee, K., **Lee, E.**, Song, C., Janik, M. J. Density functional theory study of propane steam reforming on Rh-Ni bimetallic surface: Sulfur tolerance and scaling/Broønsted-Evans-Polanyi relations. Journal of Catalysis, 309, 248-259. (2014)
 
-    * co-first authorship
+- co-first authorship
 
 Education
 ---
