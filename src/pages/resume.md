@@ -12,9 +12,9 @@ Work Experience
 
 **Data Scientist(Bioinformatics)** Daegu Gyeongbuk Institute of Science and Technology  __Mar 2017 to Feb 2020__ 3 years
 
-**Web Developer & Quality Assurance** Republic of Korea Air Force  __Mar 2017 to Feb 2020__ 1 year 9 months
+**Web Developer & Quality Assurance** Republic of Korea Air Force  __Feb 2015 to Feb 2017__ 1 year 9 months
 
-**Research Assistant** Washington University in St. Louis  __Mar 2017 to Feb 2020__ 2 years 3 months
+**Research Assistant** Washington University in St. Louis  __Aug 2012 to Oct 2014__ 2 years 3 months
 
 Technical Skills
 ---
