@@ -12,7 +12,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "import-notion-posts": "dotenv -- python3 ./bin/get-blog-posts.py"
+    "import-notion-posts": "dotenv -- python3 ./bin/get-blog-posts.js"
   },
   "dependencies": {
     "@emotion/core": "10.0.35",
@@ -44,6 +44,7 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "@notionhq/client": "^0.4.9",
     "dotenv-cli": "3.2.0",
     "gh-pages": "3.1.0",
     "prettier": "2.1.0"
