@@ -29,7 +29,7 @@ module.exports = {
           // Avoids sending pageview hits from custom paths
           exclude: ["/preview/**", "/do-not-track/me/too/"],
           // Defaults to https://www.googletagmanager.com
-          origin: "www.eelvlee.com",
+          origin: "https://www.eelvlee.com",
         },
       },
     },
