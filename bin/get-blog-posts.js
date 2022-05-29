@@ -115,7 +115,12 @@ async function processBlocks(pageContent, textPrefix = "") {
     } else if (block.type === "video") {
       text = `${text}\`video: ${block.video.external.url}\`\n\n`
     } else if (block.type === "image") {
-      image_name = await downloadFile(block.image.external.url, destPath)
+      if(block.image.file != null) {
+        image_name = await downloadFile(block.image.file.url, destPath)
+      }
+      if(block.image.external != null){
+        image_name = await downloadFile(block.image.external.url, destPath)
+      }
       text = `${text}${textPrefix}![${image_name}](${image_name})\n\n`
     } else if (block.type === "divider") {
       text = `${text}---\n`
