@@ -12,7 +12,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "import-notion-posts": "dotenv -- python3 ./bin/get-blog-posts.js"
+    "import-notion-posts": "dotenv -- node ./bin/get-blog-posts.js"
   },
   "dependencies": {
     "@emotion/core": "10.0.35",
