@@ -15,11 +15,11 @@ module.exports = {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingIds: [`G-L1YBSE1B75`],
-        // gtagConfig: {
+        gtagConfig: {
         //   optimize_id: "OPT_CONTAINER_ID",
-        //   anonymize_ip: true,
-        //   cookie_expires: 0,
-        // },
+          anonymize_ip: true,
+          cookie_expires: 0,
+        },
         // This object is used for configuration specific to this plugin
         pluginConfig: {
           // Puts tracking script in the head instead of the body
