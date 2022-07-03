@@ -16,6 +16,22 @@ Work Experience
 
 **Research Assistant** Washington University in St. Louis  __Aug 2012 to Oct 2014__ 2 years 3 months
 
+
+Programing Languages
+---
+TypeScript,
+JavaScript,
+Python,
+C#,
+C/C++,
+R,
+SQL,
+Java,
+Matlab,
+Mathematica,
+LaTex
+
+
 Technical Skills
 ---
 Machine Learning,
@@ -26,27 +42,24 @@ Data Visualization,
 Data Science,
 Big Data,
 Artificial Intelligence (AI),
+Chatbot(AI),
 Computer Vision,
 Software Development,
-Python,
+TDD,
+Git,
+Agile,
 PyTorch,
-R,
-SQL,
+gRPC,
 Microsoft Project,
-Matlab,
-Mathematica,
-Java,
-C#,
-.NET Framework,
-C/C++,
-JavaScript,
-React.js,
-React Native,
-Electron.js,
-Redux.js,
+Dotnet,
+React,
 HPCC,
-Docker Products,
+Kubernetes,
+Docker,
 Azure DevOps,
+Jira,
+Selenium,
+Cypress,
 Microsoft Azure,
 Amazon Web Services (AWS),
 SolidWorks,
@@ -61,11 +74,11 @@ Single Cell RNA Sequencing
 
 Publications:
 ---
-❖	Yum, M. K., Han, S., FInk, J.,Wu S. S., Dabrowska, C., Trendafilova, T., Mustata, R., Chatzeli L., Azzarelli, R., Pshenichnaya I., **Lee, E.**, England F., Kim, J. K., Stange, D. E., Philpott A., Lee, J., Koo, B. K., Simons, B. D. Tracing oncogene-driven remodelling of the intestinal stem cell niche, Nature, 594, 442-447. (2021)
+❖	Yum, M. K.\*, Han, S.\*, FInk, J.,Wu S. S., Dabrowska, C., Trendafilova, T., Mustata, R., Chatzeli L., Azzarelli, R., Pshenichnaya I., **Lee, E.**, England F., Kim, J. K., Stange, D. E., Philpott A., Lee, J., Koo, B. K., Simons, B. D. Tracing oncogene-driven remodelling of the intestinal stem cell niche, Nature, 594, 442-447. (2021)
 
 ❖	Lee, M.\*, **Lee, E.\***, Han, S. K.\*, Choi, Y., Kwon, D., Choi, H., Lee, K., Park, E. S., Rha, M., Joo, D. J., Shin, E., Kim, S., Kim, J. K., Lee, Y. J. Transcriptional landscapes of innate T cells at the single cell level reveal a shared lineage differentiation process regulated by clonal selection and proliferation in the thymus. Nature Communications, 11 4367. (2020) 
 
-❖	Noorani, I.\*, de la Rosa, J., Choi, Y., Strong, A., Ponstingl, H., Vijayabaskar, M. S., Lee, J., **Lee, E.**, Richard-Londt, A., Friedrich, M., Furlanetto, F., Fuente, R., Banerjee, R., Yang, F., Law, F., Watts, C., Rad, R., Vassiliou, G., Kim, J. K., Santarius, T., Brandner, S., Bradley, A. PiggyBac mutagenesis and exome sequencing identify genetic driver landscapes and potential therapeutic targets of EGFR-mutant gliomas. Genome Biology, 21 181. (2020) 
+❖	Noorani, I., de la Rosa, J., Choi, Y., Strong, A., Ponstingl, H., Vijayabaskar, M. S., Lee, J., **Lee, E.**, Richard-Londt, A., Friedrich, M., Furlanetto, F., Fuente, R., Banerjee, R., Yang, F., Law, F., Watts, C., Rad, R., Vassiliou, G., Kim, J. K., Santarius, T., Brandner, S., Bradley, A. PiggyBac mutagenesis and exome sequencing identify genetic driver landscapes and potential therapeutic targets of EGFR-mutant gliomas. Genome Biology, 21 181. (2020) 
 
 ❖	Han, S.\*, Fink, J.\*, Jörg, D. J.\*, **Lee, E.**, Yum, M. K., Chatzeli, L., Merker, S.R., Josserand, M., Trendafilova, T., Andersson-Rolf, A., Dabrowska, C., Kim, H., Naumann, R., Lee, J. H., Sasaki, N., Mort, R. L., Basak, O., Clevers, H., Stange, D. E., Philpott, A., Kim, J. K., Simons, B. D., Koo, B. K. Defining the identity and dynamics of adult gastric isthmus stem cells. Cell Stem Cell, 25(3), 342-356. (2019) 
 
@@ -73,7 +86,7 @@ Publications:
 
 ❖	Lee, K., **Lee, E.**, Song, C., Janik, M. J. Density functional theory study of propane steam reforming on Rh-Ni bimetallic surface: Sulfur tolerance and scaling/Broønsted-Evans-Polanyi relations. Journal of Catalysis, 309, 248-259. (2014)
 
-- co-first authorship
+- \* co-first authorship
 
 Education
 ---
