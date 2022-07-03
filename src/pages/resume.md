@@ -72,7 +72,7 @@ Single Cell RNA Sequencing
 
 
 
-Publications:
+Publications
 ---
 ❖	Yum, M. K.\*, Han, S.\*, FInk, J.,Wu S. S., Dabrowska, C., Trendafilova, T., Mustata, R., Chatzeli L., Azzarelli, R., Pshenichnaya I., **Lee, E.**, England F., Kim, J. K., Stange, D. E., Philpott A., Lee, J., Koo, B. K., Simons, B. D. Tracing oncogene-driven remodelling of the intestinal stem cell niche, Nature, 594, 442-447. (2021)
 
