@@ -19,6 +19,7 @@ Work Experience
 
 Programing Languages
 ---
+Go,
 TypeScript,
 JavaScript,
 Python,
@@ -27,8 +28,6 @@ C/C++,
 R,
 SQL,
 Java,
-Matlab,
-Mathematica,
 LaTex
 
 
