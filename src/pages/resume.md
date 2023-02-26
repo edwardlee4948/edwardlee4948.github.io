@@ -19,6 +19,7 @@ Work Experience
 
 Programing Languages
 ---
+Rust,
 Go,
 TypeScript,
 JavaScript,
