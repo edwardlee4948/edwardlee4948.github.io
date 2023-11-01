@@ -75,7 +75,7 @@ export default function BlogPost({ data, pageContext, location }) {
         </div>
       </nav>
       <Utterances
-        repo="EunminLee/EunminLee-comments"
+        repo="EdwardLee4948/EdwardLee-comments"
         issueTerm="pathname"
         theme="github-light"
         crossorigin="anonymous"

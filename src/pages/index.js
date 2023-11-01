@@ -10,8 +10,8 @@ export default function Home({ data, location }) {
     <Layout>
       <SEO
         title="About Me"
-        description="Eunmin Lee's blog and portfolio"
-        keywords={[`blog`, `portfolio`, `Eunmin Lee`]}
+        description="Edward Lee's blog and portfolio"
+        keywords={[`blog`, `portfolio`, `Edward Lee`]}
         pathname={location.pathname}
       />
       <main>

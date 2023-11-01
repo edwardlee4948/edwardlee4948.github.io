@@ -1,3 +1,3 @@
-# eunminlee.github.io
+# edwardlee4948.github.io
 
-This is Eunmin's blog.
+This is Edward's blog.

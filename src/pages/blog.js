@@ -10,7 +10,7 @@ export default function Blog({ data, location }) {
     <Layout>
       <SEO
         title="Blog"
-        description="All the blog posts from Eunmin Lee"
+        description="All the blog posts from Edward Lee"
         pathname={location.pathname}
       />
       <main>

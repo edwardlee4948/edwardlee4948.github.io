@@ -27,7 +27,7 @@ export default function Contact({ location }) {
         </p>
         <p>
           <a
-            href="https://github.com/EunminLee"
+            href="https://github.com/EdwardLee4948"
             target="_blank"
             rel="noreferrer"
           >

@@ -1,7 +1,7 @@
 {
-  "name": "eunmin-lee-blog",
+  "name": "edward-lee-blog",
   "private": true,
-  "description": "Eunmin Lee's blog",
+  "description": "Edward Lee's blog",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -51,6 +51,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EunminLee/EunminLee.github.io"
+    "url": "https://github.com/EdwardLee4948/EdwardLee4948.github.io"
   }
 }

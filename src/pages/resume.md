@@ -1,4 +1,4 @@
-Eunmin Eddie Lee
+Edward Lee
 ===
 
 Work Experience

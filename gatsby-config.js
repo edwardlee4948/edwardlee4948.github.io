@@ -2,10 +2,10 @@ const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
-    title: `Eunmin Lee`,
-    description: `Eunmin Lee's personal blog`,
-    author: `Eunmin Lee`,
-    siteUrl: `https://eunminlee.github.io`, // No trailing slash allowed.
+    title: `Edward Lee`,
+    description: `Edward Lee's personal blog`,
+    author: `Edward Lee`,
+    siteUrl: `https://edwardlee4948.github.io`, // No trailing slash allowed.
     social: {
       twitter: `eelvlee`,
     },
@@ -81,8 +81,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Eunmin Lee`,
-        short_name: `Eunmin Lee`,
+        name: `Edward Lee`,
+        short_name: `Edward Lee`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,
