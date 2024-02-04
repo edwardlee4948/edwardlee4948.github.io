@@ -4,7 +4,9 @@ Edward Lee
 Work Experience
 ---
 
-**Data Scientist(P&C Insurance)** Decision Research Corp __Sep 2021 to present__ 
+**Data Scientist(P&C Insurance)** Majesco __Jan 2024 to present__ 
+
+**Data Scientist(P&C Insurance)** Decision Research Corp __Sep 2021 to Dec 2023__ 2 years 4 months 
 
 **Quality Assurance** First Hawaiian Bank __Apr 2021 to Sep 2021__ 6 months
 
@@ -40,6 +42,8 @@ Data Mining,
 Data Analysis,
 Data Visualization,
 Data Science,
+Casual Inference,
+LLM/ChatGPT(prompt, fine tuning),
 Big Data,
 Artificial Intelligence (AI),
 Chatbot(AI),
