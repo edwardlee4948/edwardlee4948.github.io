@@ -4,7 +4,7 @@ Edward Lee
 Work Experience
 ---
 
-**Data Scientist(P&C Insurance)** Majesco __Jan 2024 to present__ 
+**Lead Data Scientist(P&C Insurance)** Majesco __Jan 2024 to present__ 
 
 **Data Scientist(P&C Insurance)** Decision Research Corp __Sep 2021 to Dec 2023__ 2 years 4 months 
 
