@@ -7,7 +7,7 @@ module.exports = {
     author: `Edward Lee`,
     siteUrl: `https://edwardlee4948.github.io`, // No trailing slash allowed.
     social: {
-      twitter: `eelvlee`,
+      x: `eelvlee`,
     },
   },
   plugins: [

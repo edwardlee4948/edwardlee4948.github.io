@@ -45,11 +45,11 @@ export default function Contact({ location }) {
         </p>
         <p>
           <a
-            href="https://twitter.com/eelvlee"
+            href="https://x.com/eelvlee"
             target="_blank"
             rel="noreferrer"
           >
-            Twitter
+            X
           </a>
         </p>
       </main>

@@ -64,19 +64,19 @@ function SEO({ description, lang, image, meta, keywords, title, pathname }) {
                 content: (image && image.height) || 630,
               },
               {
-                name: `twitter:card`,
+                name: `x:card`,
                 content: `summary_large_image`,
               },
               {
-                name: `twitter:creator`,
-                content: `@${data.site.siteMetadata.social.twitter}`,
+                name: `x:creator`,
+                content: `@${data.site.siteMetadata.social.x}`,
               },
               {
-                name: `twitter:title`,
+                name: `x:title`,
                 content: `${title} | ${data.site.siteMetadata.title}`,
               },
               {
-                name: `twitter:description`,
+                name: `x:description`,
                 content: metaDescription,
               },
               {
@@ -128,7 +128,7 @@ const detailsQuery = graphql`
         description
         author
         social {
-          twitter
+          x
         }
       }
     }

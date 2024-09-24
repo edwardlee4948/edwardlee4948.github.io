@@ -1,6 +1,6 @@
 Privacy Policy
 
-Jan 1, 2022
+Sept 24, 2024
 
 EELVLEE values its users' privacy. This Privacy Policy ("Policy") will help you understand how we collect and use personal information from those who visit our website or make use of our online facilities and services, and what we will and will not do with the information we collect. Our Policy has been designed and created to ensure those affiliated with EELVLEE’s of our commitment and realization of our obligation not only to meet, but to exceed, most existing privacy standards. 
 
@@ -45,7 +45,7 @@ EELVLEE’s may collect and may make use of personal information to assist in th
 
 EELVLEE’s may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered. 
 
-EELVLEE’s uses various third-party social media features including but not limited to Facebook, Twitter and other interactive programs. These may collect your IP address and require cookies to work properly. These services are governed by the privacy policies of the providers and are not within EELVLEE’s control. 
+EELVLEE’s uses various third-party social media features including but not limited to Facebook, X and other interactive programs. These may collect your IP address and require cookies to work properly. These services are governed by the privacy policies of the providers and are not within EELVLEE’s control. 
 
 Disclosure of Information 
 EELVLEE’s may not use or disclose the information provided by you except under the following circumstances:
